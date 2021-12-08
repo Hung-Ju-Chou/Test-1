@@ -1,1 +1,2 @@
-print('567')
+print('STEMI')
+print('EKG')
